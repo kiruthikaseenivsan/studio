@@ -21,7 +21,7 @@ import { Button } from '../ui/button';
 
 const menuItems = [
   {
-    href: '/',
+    href: '/dashboard',
     label: 'Dashboard',
     icon: LayoutDashboard,
   },

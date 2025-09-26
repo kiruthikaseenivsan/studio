@@ -39,7 +39,7 @@ export default function LoginForm() {
     // Mock authentication
     console.log('Login attempt with:', values);
     setTimeout(() => {
-      router.push('/');
+      router.push('/dashboard');
     }, 1000);
   }
 
